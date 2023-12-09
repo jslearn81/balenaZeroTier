@@ -1,0 +1,5 @@
+name: ZT_ROUTING
+description: >-
+   Connect your IOT to zerotier network and make it route traffic
+type: sw.application
+version: 1.0.0
